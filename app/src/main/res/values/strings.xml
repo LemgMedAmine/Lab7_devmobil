@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab7_devmobil</string>
+    <string name="star_image">Star Image</string>
+    <string name="action_share">Partager</string>
+</resources>
